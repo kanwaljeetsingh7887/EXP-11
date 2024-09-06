@@ -19,6 +19,10 @@ In C++, there are three access specifiers that are:
 Any changes made to the parameters within the function are directly reflected in the original values outside the function.
 ## Code: 11A
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 11A
+//23070123124
 # include<iostream>
 using namespace std;
 class cuboid
@@ -46,6 +50,10 @@ int main()
 
 ## Code: 11B
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 11B
+//23070123124
 # include<iostream>
 using namespace std;
 class cuboid
@@ -74,6 +82,10 @@ int main()
 
 ## Code:11C
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 11C
+//23070123124
 # include<iostream>
 using namespace std;
 class cuboid
@@ -102,6 +114,10 @@ int main()
 
 ## Code: 11D
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 11D
+//23070123124
 # include<iostream>
 using namespace std;
 class cuboid
@@ -137,6 +153,10 @@ int main()
 
 ## Code: 11E
 ```
+//KANWALJEET SINGH
+//ENTC B2
+//EXP 11E
+//23070123124
 # include<iostream>
 using namespace std;
 class cuboid
